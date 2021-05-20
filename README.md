@@ -1,1 +1,1 @@
-# DBpedia-GSoC-2021
+# Modular DBpedia Chatbot GSoC 2020
