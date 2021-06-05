@@ -8,10 +8,11 @@ This will be my first GSoC project and I am very excited to work on this project
 Google Summer of Code 2021 Modular DBpedia Chatbot Project link: [link](https://github.com/dbpedia/chatbot-ng)
 <br />
 <br />
+
 ## Table of Contents
-<a href="#community_period">GSOC Community Bonding period</a>  <br>
+<a href="#community_period">GSOC Community Bonding period</a>   
 <a href="#coding_period">GSOC Coding period</a>
-- <a href="#coding_period_weekone">Week one</a>
+<span>&#8226;</span> <a href="#coding_period_weekone">Week one</a>
  
  
 
