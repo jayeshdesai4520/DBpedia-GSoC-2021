@@ -9,7 +9,7 @@ Google Summer of Code 2021 Modular DBpedia Chatbot Project link: [link](https://
 <br />
 <br />
 ## Table of Contents
-<a href="#community_period">GSOC Community Bonding period</a><br />
+<a href="#community_period">GSOC Community Bonding period</a>  <br>
 <a href="#coding_period">GSOC Coding period</a>
 - <a href="#coding_period_weekone">Week one</a>
  
