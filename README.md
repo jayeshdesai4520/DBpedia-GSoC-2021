@@ -49,7 +49,7 @@ Link of tutorial [Link](https://chatbotsjournal.com/step-by-step-guide-to-integr
 
 
 <h4 id="coding_period_weektwo">Week two</h4>
-I had a meeting with my mentors at the end of week one and decided to work on 5 issues which are on github check [Link](https://github.com/jayeshdesai4520/chatbot-ng-internal/issues)
+I had a meeting with my mentors at the end of week one and decided to work on 5 issues this week which are on github check [Link](https://github.com/jayeshdesai4520/chatbot-ng-internal/issues)
 
 <h4 id="coding_period_weekthree">Week three</h4>
 
