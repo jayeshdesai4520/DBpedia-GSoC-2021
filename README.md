@@ -12,7 +12,9 @@ Google Summer of Code 2021 Modular DBpedia Chatbot Project link: [link](https://
 ## Table of Contents
 <a href="#community_period">GSOC Community Bonding period</a>   
 <a href="#coding_period">GSOC Coding period</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekone">Week one</a>
+<span>&#8226;</span> <a href="#coding_period_weekone">Week one</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weektwo">Week two</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekthree">Week three</a> 
 
 
 <h3 id="community_period">GSOC Community Bonding period</h3>
@@ -21,6 +23,11 @@ Google Summer of Code 2021 Modular DBpedia Chatbot Project link: [link](https://
 [04/06/2021] I had my first meeting with my mentors, During this first meeting, we have done self-introduction and looked to a overview of the project and decided to meet every week to show the progress of the project and to discuss about next steps and I am so glad to know my mentors and I will have a great journey of GSOC in this summer!
 
 <h3 id="coding_period">GSOC Coding period</h3>
+
+<h4 id="coding_period_weekone">Week one</h4>
+<h4 id="coding_period_weektwo">Week two</h4>
+<h4 id="coding_period_weekthree">Week three</h4>
+
 
 
 
