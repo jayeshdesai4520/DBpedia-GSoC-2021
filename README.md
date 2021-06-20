@@ -43,11 +43,14 @@ Later today I have added suggestion chip response to both of the DBpedia questio
 [6/9/2021] I have successfully implemented webhook tutorial
 Link of tutorial [Link](https://chatbotsjournal.com/step-by-step-guide-to-integrate-dialogflow-with-nodejs-aba949302caa)
 
-[6/10/2021]Learning how to connect External API like weather API to DialogFlow just for practice.... 
+[6/10/2021]Learning how to connect External API like weather API to DialogFlow just for practice....
 
+[6/12/2021]Uploaded code to heroku so no need to turn on ngrok everytime when to test chatbot
 
 
 <h4 id="coding_period_weektwo">Week two</h4>
+I had a meeting with my mentors at the end of week one and decided to work on 5 issues which are on github check [Link](https://github.com/jayeshdesai4520/chatbot-ng-internal/issues)
+
 <h4 id="coding_period_weekthree">Week three</h4>
 
 
