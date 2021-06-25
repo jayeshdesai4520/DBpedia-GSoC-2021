@@ -28,6 +28,7 @@ Today is first day of first week I have gone through several documentations on [
 and to start with the project we decided to work on this three category first <br /> 1) Basic conversation <br /> 2) Configure settings <br /> 3) Question answer system <br />
 <br /> So in Basic conversation there will be intents like Welcome intent, Fallback intent, Smalltalks and DBpedia questions like What is DBpedia? How to contribute to DBpedia? <br /> <br />  Configure settings contains intents like (de-)activate components (this status needs to be stored) and Get information about the current Qanary pipeline configuration intent <br /> <br /> 
 Finally in Question answer system I need to create a intent which saves the user questions and send it to Qanary via API and after the whole qanary process it gives us the answer of the given question then we have to show it via dialogflow. <br /> <br /> 
+[6/7/2021] Created GitHub repository<br />
 [6/7/2021] I have created below intents<br />
 1) Basic conversation<br />
 	 Welcome Intent<br />
@@ -48,10 +49,22 @@ Link of tutorial [Link](https://chatbotsjournal.com/step-by-step-guide-to-integr
 [6/12/2021]Uploaded code to heroku so no need to turn on ngrok everytime when to test chatbot
 
 
+
+
 <h4 id="coding_period_weektwo">Week two</h4>
 I had a meeting with my mentors at the end of week one and decided to work on 5 issues this week which are on github check [Link](https://github.com/jayeshdesai4520/chatbot-ng-internal/issues)
+[6/14/2021] ...
+[6/14/2021] checking all possible options to do RDFvisualizations and SPARQL visualization that can be integrated to chatbot
+[6/15/2021] checked demo of Qanary chatbot UI [Link](https://github.com/WDAqua/Qanary-Chatbot-UI) and undestood how it works like component list and all
+[6/17/2021] Issue - Implement a quality check via the Dialogflow API  -- Hi, I know two platforms to test the chatbot [Botium](https://www.botium.ai/) [Qbox.ai](https://qbox.ai/GetStarted) Botium has a free plan to test I have used both of them just to test the current intents of our chatbot and both of them works fine so I am going to use Botium to test chatbot for now 
+[6/19/2021] 
+
 
 <h4 id="coding_period_weekthree">Week three</h4>
+[6/22/2021] ....
+[6/23/2021] 
+[6/24/2021] 
+
 
 
 
