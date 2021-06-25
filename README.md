@@ -52,19 +52,19 @@ Link of tutorial [Link](https://chatbotsjournal.com/step-by-step-guide-to-integr
 
 
 <h4 id="coding_period_weektwo">Week two</h4>
-I had a meeting with my mentors at the end of week one and decided to work on 5 issues this week which are on github check [Link](https://github.com/jayeshdesai4520/chatbot-ng-internal/issues)
-[6/14/2021] ...
-[6/14/2021] checking all possible options to do RDFvisualizations and SPARQL visualization that can be integrated to chatbot
-[6/15/2021] checked demo of Qanary chatbot UI [Link](https://github.com/WDAqua/Qanary-Chatbot-UI) and undestood how it works like component list and all
-[6/17/2021] Issue - Implement a quality check via the Dialogflow API  -- Hi, I know two platforms to test the chatbot [Botium](https://www.botium.ai/) [Qbox.ai](https://qbox.ai/GetStarted) Botium has a free plan to test I have used both of them just to test the current intents of our chatbot and both of them works fine so I am going to use Botium to test chatbot for now 
+I had a meeting with my mentors at the end of week one and decided to work on 5 issues this week which are on github check [Link](https://github.com/jayeshdesai4520/chatbot-ng-internal/issues)<br />
+[6/14/2021] ...<br />
+[6/14/2021] checking all possible options to do RDFvisualizations and SPARQL visualization that can be integrated to chatbot<br />
+[6/15/2021] checked demo of Qanary chatbot UI [Link](https://github.com/WDAqua/Qanary-Chatbot-UI) and undestood how it works like component list and all<br />
+[6/17/2021] Issue - Implement a quality check via the Dialogflow API  -- Hi, I know two platforms to test the chatbot [Botium](https://www.botium.ai/) [Qbox.ai](https://qbox.ai/GetStarted) Botium has a free plan to test I have used both of them just to test the current intents of our chatbot and both of them works fine so I am going to use Botium to test chatbot for now <br />
 [6/19/2021] 
 
 
 <h4 id="coding_period_weekthree">Week three</h4>
-[6/22/2021] ....
-[6/23/2021] 
+[6/22/2021] ....<br />
+[6/23/2021] <br />
 [6/24/2021] 
-
+<br />
 
 
 
