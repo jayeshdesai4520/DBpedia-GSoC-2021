@@ -63,22 +63,22 @@ I had a meeting with my mentors at the end of week one and decided to work on 5 
 
 
 <h4 id="coding_period_weekthree">Week three</h4>
-[6/22/2021] ....<br />
-[6/23/2021] <br />
-[6/24/2021] 
+[6/22/2021] Trying to visualize graph using pyvis library<br />
+[6/23/2021] RDF Graph visualization is working now and hosted to Heroku<br />
+[6/24/2021] Connected Qanary webservice<br />
+[6/25/2021] Used Fallback Intent to get the question from user to send to Qanary<br />
 <br />
 
 <h4 id="coding_period_weekfour">Week Four</h4>
-[6/22/2021] ....<br />
-[6/23/2021] <br />
-[6/24/2021] 
+[6/28/2021] Added user sessions so each cconversation for component list will be unique<br />
+[7/3/2021]  Made RDF Graph visualization dynamic<br />
 <br />
 
 
 <h4 id="coding_period_weekfive">Week Five</h4>
-[6/22/2021] ....<br />
-[6/23/2021] <br />
-[6/24/2021] 
+[7/6/2021] Fetched list of Qanary components from Qanary framework in every 15 seconds it updates the list of components<br />
+[7/7/2021] Added intent for user cannot ask for reload component for for then 10 times otherwise it will give a 30 second timeout<br />
+[7/9/2021] Used Fuzzyset library so now no need to use Dialogflow entity Advantage of using fuzzy set library is now no need to update Dialogfloe entity every time when there is some new component in the live list of Qanary components
 <br />
 
 
