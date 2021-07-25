@@ -1,3 +1,10 @@
+---
+title: PAGE TITLE HERE
+layout: template
+filename: tutorial.md
+--- 
+
+
 # Modular DBpedia Chatbot GSoC 2021
 <a href="tutorial.md">Tutoria Blog</a>
 Hello everyone, I am Jayesh Desai.<br /> 
