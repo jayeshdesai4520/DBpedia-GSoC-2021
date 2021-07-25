@@ -14,7 +14,7 @@ Google Summer of Code 2021 Modular DBpedia Chatbot Project link: [link](https://
 <a href="#coding_period">GSOC Coding period</a><br /> 
 <span>&#8226;</span> <a href="#coding_period_weekone">Week one</a><br /> 
 <span>&#8226;</span> <a href="#coding_period_weektwo">Week two</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekthree">Week three</a> 
+<span>&#8226;</span> <a href="#coding_period_weekthree">Week three</a> <br /> 
 <span>&#8226;</span> <a href="#coding_period_weekfour">Week four</a><br /> 
 <span>&#8226;</span> <a href="#coding_period_weekfive">Week five</a><br /> 
 
