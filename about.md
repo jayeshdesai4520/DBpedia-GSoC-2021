@@ -106,7 +106,7 @@ Bot - personLabel:Ada Lovelace birthplaceLabel:London birthdate:1815-12-10T00:00
 
 If the components mentioned above are already activated then you dont have to activate again on the local list of components 
 <br />
-Tip - To see the order of the component list you can ask "tell me an order of components list"
+Hint - To see the order of the component list you can ask "tell me an order of components list"
 <br />
 Currently, Answers are not looking good so we are planning to use NLP techniques to paraphrase the answer
 <br />
