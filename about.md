@@ -109,7 +109,7 @@ If the components mentioned above are already activated then you dont have to ac
 <br />
 Hint - To see the order of the component list you can ask "tell me an order of components list"
 <br />
-Currently, Answers are not looking good so we are planning to use NLP techniques to paraphrase the answer
+Currently, Answers are not looking good so we are planning to use NLP techniques to paraphrase the answer.
 <br />
 
 If you are facing any bug please create a issue [here](https://github.com/dbpedia/chatbot-ng)
