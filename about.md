@@ -15,8 +15,10 @@ Follow this Tutorial to create QANARY System Locally [Link](https://github.com/W
 <br />
 To learn more about QANARY [Click Here](https://github.com/WDAqua/Qanary/wiki/What-is-Qanary%3F)
 <br />
+### How to configure chatbot 
 Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following component NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter <br />
-So basically, component plays important role here before asking any question you need to turn on component according to the question(To make it run remember component list must have to be in order) <br />
-If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary.
+So basically, components plays important role here before asking any question you need to turn on component according to the question (To make it run remember component list must be in order) <br />
+If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary.  
+<img src="https://imgur.com/U3PcKwR.png" height="500" width="500"> <br />
 Defualt component which are always on are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter
 If you are facing any bug please create a issue [here](https://github.com/dbpedia/chatbot-ng)
