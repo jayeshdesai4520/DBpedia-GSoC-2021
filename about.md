@@ -37,11 +37,12 @@ Now lets focus on how to Add or Remove and see the current active component from
 Configuration and internal information: <br />
 To Activate/Add component you need to say "Add [Component name]" for example - Add sparql executer <br />
 here is the conversation flow -  <br />
-```User - Hi <br />
-Bot - Hello! I am the DBpedia bot, How can I help you? <br />
-User - Add sparql executer <br />
-Bot - Succesfully Added SparqlExecuter you can add more components by saying Add and then name of the component. <br />
+```User - Hi  
+Bot - Hello! I am the DBpedia bot, How can I help you?  
+User - Add sparql executer 
+Bot - Succesfully Added SparqlExecuter you can add more components by saying Add and then name of the component.  
 ```
+<br />
 To Remove/Deactivate component you need to say "Remove [Component name]" for example - Remove sparql executer <br />
 ```
 User - Hi  
@@ -49,18 +50,21 @@ Bot - Hello! I am the DBpedia bot, How can I help you?
 User - Remove sparql executer  
 Bot - succesfully removed SparqlExecuter from components list. 
 ```
+<br />
 To see current active component from your list you need to say "tell me an order of components list" <br />
 ```User - Hi 
 Bot - Hello! I am the DBpedia bot, How can I help you?  
 User - tell me an order of components list  
 Bot - currently, active components are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter  
 ```
+<br />
 To see Reset the list of component from your list you need to say "reset component list" <br />
 ```User - Hi  
 Bot - Hello! I am the DBpedia bot, How can I help you?  
 User - reset component list 
 Bot - Components list are now empty  
 ```
+<br />
 Default component which are always on are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter <br />
 
 To see the Live/Active QANARY Components from Server not from the local List yoy can use the below command: <br />
@@ -72,8 +76,8 @@ Bot - Total Active components are 55 and components are "coronabot-named-entity-
 ### How to ask a question to chatbot: <br />
 After setting up the components now we can ask questions to the bot  <br />
 ```
-User - What is the real name of hulk? <br />
-Bot - resource:http://dbpedia.org/resource/Hulk answer:Robert Bruce Banner label:Hulk <br />
+User - What is the real name of hulk? 
+Bot - resource:http://dbpedia.org/resource/Hulk answer:Robert Bruce Banner label:Hulk  
 ```
 
 
