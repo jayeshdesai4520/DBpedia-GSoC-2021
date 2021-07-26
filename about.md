@@ -37,7 +37,7 @@ Let us take the question “What is the real name of Superman?” as running exa
 <br />
 So basically, components plays important role here before asking any question you need to turn on component according to the question (To make it run remember component list must be in order) 
 <br />
-If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary.   <br />
+If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary. or you can simply ask "list of active qanary components" to get the list of avaiable component to use.<br />
 
 Now lets focus on how to Add or Remove and see the current active component from your list <br />  
 **Configuration and internal information:** <br /> <br />
