@@ -19,8 +19,8 @@ To learn more about QANARY [Click Here](https://github.com/WDAqua/Qanary/wiki/Wh
 Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
 So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 <br />
-### Greetings and Information:
-Here are some Information questions you can ask! <br />
+### Greetings and Information: <br />
+**Here are some Information questions you can ask!** <br />
 User - how to contribute to dbpedia <br />
 Bot - There are multiple ways to contribute to DBpedia You can: 1 - Look at open issues if you want to contribute to the codebase 2 - Improve Documentation 3 - Join the discussion on upcoming features, releases, and issues
 
@@ -32,10 +32,10 @@ Bot - DBpedia is a crowd-sourced community effort to extract structured informat
 Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following components  <br /> NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter <br />
 So basically, components plays important role here before asking any question you need to turn on component according to the question (To make it run remember component list must be in order) <br />
 If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary.   <br />
-Below Image represents steps after configuring the components
-<img src="https://imgur.com/U3PcKwR.png" height="500" width="500"> <br />
-Now lets focus on how to Add or Remove and see the current active component from your list <br />
-**Configuration and internal information:** <br />
+Below Image represents steps after configuring the components <br />
+<img src="https://imgur.com/U3PcKwR.png" height="500" width="500"> <br /> <br />
+Now lets focus on how to Add or Remove and see the current active component from your list <br /> <br />
+**Configuration and internal information:** <br /> <br />
 **To Activate/Add component you need to say "Add [Component name]" for example - Add sparql executer** <br />
 here is the conversation flow -  <br />
 ```
@@ -79,7 +79,7 @@ Bot - Total Active components are 55 and components are "coronabot-named-entity-
 
 ### How to ask a question to chatbot:  <br />
 
-After setting up the components now we can ask questions to the bot <br />
+**After setting up the components now we can ask questions to the bot** <br />
 ```
 User - What is the real name of hulk? 
 Bot - resource:http://dbpedia.org/resource/Hulk answer:Robert Bruce Banner label:Hulk  
