@@ -13,7 +13,7 @@ Qanary is a methodology that allows to create, share and use components for Ques
 (4) present the answer(s).
 <br />
 <br />
-Some more Information about the Qanary System:<br />
+Some more Information about the QANARY System:<br />
 [Follow this](https://github.com/WDAqua/Qanary) Tutorial to create QANARY System Locally 
 <br />
 To learn more about QANARY [Click Here](https://github.com/WDAqua/Qanary/wiki/What-is-Qanary%3F) <br />
