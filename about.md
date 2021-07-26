@@ -40,7 +40,7 @@ So basically, components plays important role here before asking any question yo
 If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary.   <br />
 Below Image represents steps after configuring the components  
 <br />
-<img src="https://imgur.com/U3PcKwR.png" height="500" width="500"> <br /> <br />
+<img src="https://imgur.com/CQALTWn.png" height="500" width="500"> <br /> <br />
 
 Now lets focus on how to Add or Remove and see the current active component from your list <br />  
 **Configuration and internal information:** <br /> <br />
