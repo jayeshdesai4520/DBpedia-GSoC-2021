@@ -89,7 +89,8 @@ Below Image represents steps after configuring the components
 
 ### How to ask a question to chatbot:  <br />
 
-**After setting up the components now we can ask questions to the bot** <br />
+**After setting up the components now we can ask questions to the Chatbot** 
+<br />
 For the example number one make sure you have activated follwing components - NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter 
 <br />
 ```
