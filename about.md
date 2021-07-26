@@ -73,7 +73,7 @@ Bot - Components list are now empty
 <br />
 Default component which are always on are NEDDBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter <br />
 
-**To see the Active/Live QANARY Components from Server not from the local List yoy can use the below command:** <br />
+**To see the Active/Live QANARY Components from Server not from the local List you can use the below command:** <br />
 ```
 User - list of active qanary components  
 Bot - Total Active components are 55 and components are "coronabot-named-entity-recognition-location-de","SparqlExecuter","TagmeNED","MeaningCloud","NED-DBpediaSpotlight","coronabot-question-classification","QAnswerQueryBuilderAndExecutor","NERD-LuceneLinker","coronabot-missing-information","Dandelion","NER-FOX","WikidataQueryExecute.................
@@ -82,10 +82,18 @@ Bot - Total Active components are 55 and components are "coronabot-named-entity-
 ### How to ask a question to chatbot:  <br />
 
 **After setting up the components now we can ask questions to the bot** <br />
+For the example number one make sure you have activated follwing components - NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter 
+<br />
 ```
 User - What is the real name of hulk? 
 Bot - resource:http://dbpedia.org/resource/Hulk answer:Robert Bruce Banner label:Hulk  
 ```
+<br />
+Now lets see Another example for this activate - OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter 
+<br />
 
-
+If the components mentioned above are already activated then you dont have to activate again on the local list of components 
+<br />
+Tip - To see the order of the component list you can ask "tell me an order of components list"
+<br />
 If you are facing any bug please create a issue [here](https://github.com/dbpedia/chatbot-ng)
