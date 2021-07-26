@@ -20,7 +20,8 @@ Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
 So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 <br />
 ### Greetings and Information: <br />
-**Here are some Information questions you can ask!** <br />
+**Here are some Information questions you can ask!**
+<br />
 User - how to contribute to dbpedia <br />
 Bot - There are multiple ways to contribute to DBpedia You can: 1 - Look at open issues if you want to contribute to the codebase 2 - Improve Documentation 3 - Join the discussion on upcoming features, releases, and issues
 
