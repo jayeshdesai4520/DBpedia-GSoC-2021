@@ -42,8 +42,8 @@ Below Image represents steps after configuring the components
 
 Now lets focus on how to Add or Remove and see the current active component from your list <br />  
 **Configuration and internal information:** <br /> <br />
-**To Activate/Add component you need to say "Add [Component name]" for example - Add sparql executer** <br />
-here is the conversation flow -  <br />
+**To Activate/Add component you need to say "Add [Component name]" for example - Add sparql executer** <br /> 
+
 ```
 User - Hi  
 Bot - Hello! I am the DBpedia bot, How can I help you?  
