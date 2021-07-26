@@ -28,7 +28,7 @@ Bot - DBpedia is a crowd-sourced community effort to extract structured informat
 
 
 ### How to configure chatbot  <br />
-Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following components NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter <br />
+Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following components  <br /> NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter <br />
 So basically, components plays important role here before asking any question you need to turn on component according to the question (To make it run remember component list must be in order) <br />
 If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary.   <br />
 Below Image represents steps after configuring the components
@@ -37,42 +37,44 @@ Now lets focus on how to Add or Remove and see the current active component from
 Configuration and internal information: <br />
 To Activate/Add component you need to say "Add [Component name]" for example - Add sparql executer <br />
 here is the conversation flow -  <br />
-User - Hi <br />
+```User - Hi <br />
 Bot - Hello! I am the DBpedia bot, How can I help you? <br />
 User - Add sparql executer <br />
 Bot - Succesfully Added SparqlExecuter you can add more components by saying Add and then name of the component. <br />
-
+```
 To Remove/Deactivate component you need to say "Remove [Component name]" for example - Remove sparql executer <br />
-User - Hi <br />
-Bot - Hello! I am the DBpedia bot, How can I help you? <br />
-User - Remove sparql executer <br />
-Bot - succesfully removed SparqlExecuter from components list. <br />
-
+```
+User - Hi  
+Bot - Hello! I am the DBpedia bot, How can I help you?  
+User - Remove sparql executer  
+Bot - succesfully removed SparqlExecuter from components list. 
+```
 To see current active component from your list you need to say "tell me an order of components list" <br />
-User - Hi <br />
-Bot - Hello! I am the DBpedia bot, How can I help you? <br />
-User - tell me an order of components list <br />
-Bot - currently, active components are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter <br />
-
+```User - Hi 
+Bot - Hello! I am the DBpedia bot, How can I help you?  
+User - tell me an order of components list  
+Bot - currently, active components are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter  
+```
 To see Reset the list of component from your list you need to say "reset component list" <br />
-User - Hi <br />
-Bot - Hello! I am the DBpedia bot, How can I help you? <br />
-User - reset component list <br />
-Bot - Components list are now empty <br />
-
+```User - Hi  
+Bot - Hello! I am the DBpedia bot, How can I help you?  
+User - reset component list 
+Bot - Components list are now empty  
+```
 Default component which are always on are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter <br />
 
 To see the Live/Active QANARY Components from Server not from the local List yoy can use the below command: <br />
-
-User - list of active qanary components <br />
+```
+User - list of active qanary components  
 Bot - Total Active components are 55 and components are "coronabot-named-entity-recognition-location-de","SparqlExecuter","TagmeNED","MeaningCloud","NED-DBpediaSpotlight","coronabot-question-classification","QAnswerQueryBuilderAndExecutor","NERD-LuceneLinker","coronabot-missing-information","Dandelion","NER-FOX","WikidataQueryExecute.................
+```
 
 ### How to ask a question to chatbot: <br />
 After setting up the components now we can ask questions to the bot  <br />
-
+```
 User - What is the real name of hulk? <br />
 Bot - resource:http://dbpedia.org/resource/Hulk answer:Robert Bruce Banner label:Hulk <br />
-
+```
 
 
 If you are facing any bug please create a issue [here](https://github.com/dbpedia/chatbot-ng)
