@@ -23,12 +23,14 @@ So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 ### Greetings and Information: <br />
 **Here are some Information questions you can ask!**
 <br />
-User - how to contribute to dbpedia <br />
+```
+User - how to contribute to dbpedia  
 Bot - There are multiple ways to contribute to DBpedia You can: 1 - Look at open issues if you want to contribute to the codebase 2 - Improve Documentation 3 - Join the discussion on upcoming features, releases, and issues
-
-User - what is DBpedia? <br />
-Bot - DBpedia is a crowd-sourced community effort to extract structured information from Wikipedia and make this information available on the Web. <br />
-
+```
+```
+User - what is DBpedia?  
+Bot - DBpedia is a crowd-sourced community effort to extract structured information from Wikipedia and make this information available on the Web.  
+```
 
 ### How to configure chatbot:<br />
 Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following components  <br /> NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter
