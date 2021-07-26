@@ -12,11 +12,12 @@ Qanary is a methodology that allows to create, share and use components for Ques
 (3) find data to answer the question <br />
 (4) present the answer(s).
 <br />
+<br />
 Follow this Tutorial to create QANARY System Locally [Link](https://github.com/WDAqua/Qanary) 
 <br />
 To learn more about QANARY [Click Here](https://github.com/WDAqua/Qanary/wiki/What-is-Qanary%3F) <br />
 Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
-So in a Nutshell Question>Qanary>DBpedia knowledge base>Dialogflow
+So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 <br />
 ### Greetings and Information
 Here are some Information questions you can ask! <br />
@@ -37,7 +38,8 @@ Now lets focus on how to Add or Remove and see the current active component from
 Configuration and internal information: <br />
 To Activate/Add component you need to say "Add [Component name]" for example - Add sparql executer <br />
 here is the conversation flow -  <br />
-```User - Hi  
+```
+User - Hi  
 Bot - Hello! I am the DBpedia bot, How can I help you?  
 User - Add sparql executer 
 Bot - Succesfully Added SparqlExecuter you can add more components by saying Add and then name of the component.  
@@ -52,14 +54,16 @@ Bot - succesfully removed SparqlExecuter from components list.
 ```
 <br />
 To see current active component from your list you need to say "tell me an order of components list" <br />
-```User - Hi 
+```
+User - Hi 
 Bot - Hello! I am the DBpedia bot, How can I help you?  
 User - tell me an order of components list  
 Bot - currently, active components are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter  
 ```
 <br />
 To see Reset the list of component from your list you need to say "reset component list" <br />
-```User - Hi  
+```
+User - Hi  
 Bot - Hello! I am the DBpedia bot, How can I help you?  
 User - reset component list 
 Bot - Components list are now empty  
