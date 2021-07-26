@@ -15,6 +15,7 @@ Qanary is a methodology that allows to create, share and use components for Ques
 <br />
 Some more Information about the Qanary System:<br />
 [Follow this](https://github.com/WDAqua/Qanary) Tutorial to create QANARY System Locally 
+<br />
 To learn more about QANARY [Click Here](https://github.com/WDAqua/Qanary/wiki/What-is-Qanary%3F) <br />
 Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
 So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
