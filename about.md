@@ -95,11 +95,16 @@ User - What is the real name of hulk?
 Bot - resource:http://dbpedia.org/resource/Hulk answer:Robert Bruce Banner label:Hulk  
 ```
 <br />
-Now lets see Another example for this activate - OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter 
+Now lets see Another example for this demo activate - OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter 
 <br />
+```
+User - Where and when was Ada Lovelace born?
+Bot - personLabel:Ada Lovelace birthplaceLabel:London birthdate:1815-12-10T00:00:00Z
+```
 
 If the components mentioned above are already activated then you dont have to activate again on the local list of components 
 <br />
 Tip - To see the order of the component list you can ask "tell me an order of components list"
 <br />
+Currently, Answers are not looking good so we are planning to use NLP techniques to paraphrase the answer
 If you are facing any bug please create a issue [here](https://github.com/dbpedia/chatbot-ng)
