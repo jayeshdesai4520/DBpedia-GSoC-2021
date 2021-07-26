@@ -43,6 +43,12 @@ Bot - Hello! I am the DBpedia bot, How can I help you?
 User - tell me an order of components list
 Bot - currently, active components are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter
 
+To see Reset the list of component from your list you need to say "reset component list"
+User - Hi
+Bot - Hello! I am the DBpedia bot, How can I help you?
+User - reset component list
+Bot - Components list are now empty
+
 
 
 
