@@ -110,4 +110,5 @@ Hint - To see the order of the component list you can ask "tell me an order of c
 <br />
 Currently, Answers are not looking good so we are planning to use NLP techniques to paraphrase the answer
 <br />
+
 If you are facing any bug please create a issue [here](https://github.com/dbpedia/chatbot-ng)
