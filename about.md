@@ -31,8 +31,10 @@ Bot - DBpedia is a crowd-sourced community effort to extract structured informat
 
 
 ### How to configure chatbot:<br />
-Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following components  <br /> NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter <br />
-So basically, components plays important role here before asking any question you need to turn on component according to the question (To make it run remember component list must be in order) <br />
+Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following components  <br /> NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter
+<br />
+So basically, components plays important role here before asking any question you need to turn on component according to the question (To make it run remember component list must be in order) 
+<br />
 If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary.   <br />
 Below Image represents steps after configuring the components  
 <br />
