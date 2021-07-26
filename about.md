@@ -38,9 +38,6 @@ Let us take the question “What is the real name of Superman?” as running exa
 So basically, components plays important role here before asking any question you need to turn on component according to the question (To make it run remember component list must be in order) 
 <br />
 If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary.   <br />
-Below Image represents steps after configuring the components  
-<br />
-<img src="https://imgur.com/CQALTWn.png"> <br /> <br />
 
 Now lets focus on how to Add or Remove and see the current active component from your list <br />  
 **Configuration and internal information:** <br /> <br />
@@ -84,6 +81,11 @@ Default component which are always on are NEDDBpediaSpotlight,QueryBuilderSimple
 User - list of active qanary components  
 Bot - Total Active components are 55 and components are "coronabot-named-entity-recognition-location-de","SparqlExecuter","TagmeNED","MeaningCloud","NED-DBpediaSpotlight","coronabot-question-classification","QAnswerQueryBuilderAndExecutor","NERD-LuceneLinker","coronabot-missing-information","Dandelion","NER-FOX","WikidataQueryExecute.................
 ```
+<br />
+Below Image represents steps after configuring the components  
+<br />
+<img src="https://imgur.com/CQALTWn.png"> 
+<br /> 
 
 ### How to ask a question to chatbot:  <br />
 
