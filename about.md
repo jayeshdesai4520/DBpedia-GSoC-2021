@@ -74,7 +74,7 @@ User - reset the component list
 Bot - Components list are now empty  
 ```
 <br />
-Default component which are always on are NEDDBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter <br />
+Default components which are always on - NEDDBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter <br />
 
 **To see the Active/Live QANARY Components from Server, not from the local List you can use the below command:** <br />
 ```
