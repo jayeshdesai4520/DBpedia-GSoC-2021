@@ -24,7 +24,7 @@ So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 **Here are some Information questions you can ask!**
 <br />
 ```
-User - how to contribute to dbpedia  
+User - how to contribute to DBpedia  
 Bot - There are multiple ways to contribute to DBpedia You can: 1 - Look at open issues if you want to contribute to the codebase 2 - Improve Documentation 3 - Join the discussion on upcoming features, releases, and issues
 ```
 ```
@@ -35,9 +35,9 @@ Bot - DBpedia is a crowd-sourced community effort to extract structured informat
 ### How to configure chatbot:<br />
 Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following components  <br /> NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter
 <br />
-So basically, components plays important role here before asking any question you need to turn on component according to the question (To make it run remember component list must be in order) 
+So basically, components play an important role here before asking any question you need to turn on component according to the question (To make it run remember the component list must be in order) 
 <br />
-If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated in Qanary. or you can simply ask "list of active qanary components" to get the list of avaiable component to use.<br />
+If you want to learn more about Qanary Question Answering components There are around 30+ [Components](https://github.com/WDAqua/Qanary-question-answering-components) Integrated into Qanary. or you can simply ask "list of active Qanary components" to get the list of the available component to use.<br />
 
 Now lets focus on how to Add or Remove and see the current active component from your list <br />  
 **Configuration and internal information:** <br /> <br />
@@ -47,7 +47,7 @@ Now lets focus on how to Add or Remove and see the current active component from
 User - Hi  
 Bot - Hello! I am the DBpedia bot, How can I help you?  
 User - Add sparql executer 
-Bot - Succesfully Added SparqlExecuter you can add more components by saying Add and then name of the component.  
+Bot - Successfully Added SparqlExecuter you can add more components by saying Add and then name of the component.  
 ```
 <br />
 **To Remove/Deactivate component you need to say "Remove [Component name]" for example - Remove sparql executer** <br />
@@ -55,10 +55,10 @@ Bot - Succesfully Added SparqlExecuter you can add more components by saying Add
 User - Hi  
 Bot - Hello! I am the DBpedia bot, How can I help you?  
 User - Remove sparql executer  
-Bot - succesfully removed SparqlExecuter from components list. 
+Bot - successfully removed SparqlExecuter from the components list. 
 ```
 <br />
-**To see current active component from your list you need to say "tell me an order of components list"** <br />
+**To see the currently active component from your list you need to say "tell me an order of components list"** <br />
 ```
 User - Hi 
 Bot - Hello! I am the DBpedia bot, How can I help you?  
@@ -70,15 +70,15 @@ Bot - currently, active components are NED-DBpediaSpotlight,QueryBuilderSimpleRe
 ```
 User - Hi  
 Bot - Hello! I am the DBpedia bot, How can I help you?  
-User - reset component list 
+User - reset the component list 
 Bot - Components list are now empty  
 ```
 <br />
 Default component which are always on are NEDDBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter <br />
 
-**To see the Active/Live QANARY Components from Server not from the local List you can use the below command:** <br />
+**To see the Active/Live QANARY Components from Server, not from the local List you can use the below command:** <br />
 ```
-User - list of active qanary components  
+User - list of active Qanary components  
 Bot - Total Active components are 55 and components are "coronabot-named-entity-recognition-location-de","SparqlExecuter","TagmeNED","MeaningCloud","NED-DBpediaSpotlight","coronabot-question-classification","QAnswerQueryBuilderAndExecutor","NERD-LuceneLinker","coronabot-missing-information","Dandelion","NER-FOX","WikidataQueryExecute.................
 ```
 <br />
@@ -105,11 +105,11 @@ User - Where and when was Ada Lovelace born?
 Bot - personLabel:Ada Lovelace birthplaceLabel:London birthdate:1815-12-10T00:00:00Z
 ```
 
-If the components mentioned above are already activated then you dont have to activate again on the local list of components 
+If the components mentioned above are already activated then you don't have to activate them again on the local list of components 
 <br />
 Hint - To see the order of the component list you can ask "tell me an order of components list"
 <br />
 Currently, Answers are not looking good so we are planning to use NLP techniques to paraphrase the answer.
 <br />
 
-If you are facing any bug please create a issue [here](https://github.com/dbpedia/chatbot-ng)
+If you are facing any bug please create an issue [here](https://github.com/dbpedia/chatbot-ng)
