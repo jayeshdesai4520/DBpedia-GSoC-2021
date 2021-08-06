@@ -2,6 +2,7 @@
 ### This tutorial will show you, step by step, How to use DBpediaxQanary chatbot!
 ### What’s inside: <br />
 <span>&#8226;</span> What is Qanary? <br />
+<span>&#8226;</span> What is the purpose of this chatbot? <br /
 <span>&#8226;</span> Greetings and Information <br />
 <span>&#8226;</span> How to configure chatbot <br />
 <span>&#8226;</span> How to ask a question to chatbot<br />
@@ -113,5 +114,21 @@ Hint - To see the order of the component list you can ask "tell me an order of c
 <br />
 Currently, Answers are not looking good so we are planning to use NLP techniques to paraphrase the answer.
 <br />
+
+### How to load graph visualization of the question:  <br />
+To understand more about how Qanary system working you can check out the graph using below commands  <br />
+
+```
+User - Where and when was Ada Lovelace born?
+Bot - personLabel:Ada Lovelace birthplaceLabel:London birthdate:1815-12-10T00:00:00Z
+User - show rdf graph
+Bot - Go to this link to see RDF Visualization - https://rdfgraphvisualizations.herokuapp.com/visualize/example
+```
+click on this [link](https://rdfgraphvisualizations.herokuapp.com/visualize/example) to see demo graph.  <br />
+
+### How to make a profile:  <br />
+If you want to create a profile in which you can add list of components use below command - <br />
+
+
 
 If you are facing any bug please create an issue [here](https://github.com/dbpedia/chatbot-ng)
