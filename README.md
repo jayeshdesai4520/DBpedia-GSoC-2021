@@ -4,7 +4,8 @@ I am very happy to announce about my selection in [Modular DBpedia Chatbot](http
 This will be my first GSoC project and I am very excited to work on this project Thank you [Andreas both](https://www.linkedin.com/in/andreas-both-94267222/), [Alexander perevalov](https://www.linkedin.com/in/alexander-perevalov-837780111/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BU%2FpdNmPFSUqmoz82LyrZKA%3D%3D), [Ricardo usbeck](https://www.linkedin.com/in/ricardo-usbeck/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BQQw%2Bvv%2FvRwmEwkG30ZxSsQ%3D%3D), [Ram athreya](https://www.linkedin.com/in/ramgathreya/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BQQw%2Bvv%2FvRwmEwkG30ZxSsQ%3D%3D) for giving me this opportunity excited to work with you all!
 <br />
 <br />
-Google Summer of Code 2021 Modular DBpedia Chatbot Project link: [link](https://github.com/dbpedia/chatbot-ng)
+Google Summer of Code 2021 Modular DBpedia Chatbot Project link: [link](https://github.com/dbpedia/chatbot-ng) <br />
+Tutorial link: [link](https://jayeshdesai4520.github.io/DBpedia-GSoC-2021/about)
 <br />
 <br />
 
@@ -15,7 +16,12 @@ Google Summer of Code 2021 Modular DBpedia Chatbot Project link: [link](https://
 <span>&#8226;</span> <a href="#coding_period_weektwo">Week two</a><br /> 
 <span>&#8226;</span> <a href="#coding_period_weekthree">Week three</a> <br /> 
 <span>&#8226;</span> <a href="#coding_period_weekfour">Week four</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekfive">Week five</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekfive">Week five</a><br />
+<span>&#8226;</span> <a href="#coding_period_weeksix">Week six</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekseven">Week seven</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekeight">Week eight</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weeknine">Week nine</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekten">Week ten</a><br /> 
 
 <h3 id="community_period">GSOC Community Bonding period</h3>
 
