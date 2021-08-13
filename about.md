@@ -23,6 +23,8 @@ To learn more about QANARY [Click Here](https://github.com/WDAqua/Qanary/wiki/Wh
 Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
 So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 <br />
+### What is the purpose of this chatbot? <br />
+....
 ### Greetings and Information: <br />
 **Here are some Information questions you can ask!**
 <br />
