@@ -2,7 +2,7 @@
 ### This tutorial will show you, step by step, How to use DBpediaxQanary chatbot!
 ### What’s inside: <br />
 <span>&#8226;</span> What is Qanary? <br />
-<span>&#8226;</span> What is the purpose of this chatbot? <br /
+<span>&#8226;</span> What is the purpose of this chatbot? <br />
 <span>&#8226;</span> Greetings and Information <br />
 <span>&#8226;</span> How to configure chatbot <br />
 <span>&#8226;</span> How to ask a question to chatbot<br />
@@ -116,7 +116,7 @@ Currently, Answers are not looking good so we are planning to use NLP techniques
 <br />
 
 ### How to load graph visualization of the question:  <br />
-To understand more about how Qanary system working you can check out the graph using below commands  <br />
+**To understand more about how Qanary system working you can check out the graph using below commands**  <br />
 
 ```
 User - Where and when was Ada Lovelace born?
@@ -124,10 +124,43 @@ Bot - personLabel:Ada Lovelace birthplaceLabel:London birthdate:1815-12-10T00:00
 User - show rdf graph
 Bot - Go to this link to see RDF Visualization - https://rdfgraphvisualizations.herokuapp.com/visualize/example
 ```
-click on this [link](https://rdfgraphvisualizations.herokuapp.com/visualize/example) to see demo graph.  <br />
+click on this [link](https://webengineering.ins.hs-anhalt.de:41022/visualize/example) to see demo graph.  <br />
 
 ### How to make a profile:  <br />
-If you want to create a profile in which you can add list of components use below command - <br />
+**If you want to create a profile in which you can add list of components use below command** - <br />
+
+```
+User - create sport profile
+Bot - sport Profile added successfully. Now to use this profile you can say start sport to activate the profile. 
+```
+**To add component to profile** - <br />
+```
+User - activate query builder to sport
+Bot - Successfully Added QueryBuilder to sport you can add more components by saying Add and then name of the component.
+```
+**To remove component to profile** - <br />
+```
+User - deactivate query builder from sport
+Bot - Successfully removed QueryBuilder from components list of sport. 
+```
+
+**To add profile components to local components list** - <br />
+```
+User - start sport
+Bot - sport Activated Successfully to know about active components use command 'list of active components'.
+```
+
+**To see a list of components of a specific profile** - <br />
+```
+User - show components of sport
+Bot - sport contains QueryBuilder
+```
+
+**To add default components use the command** - <br />
+```
+User - start default component
+Bot - default component Activated Successfully to know about active components use command 'list of active components'.
+```
 
 
 
