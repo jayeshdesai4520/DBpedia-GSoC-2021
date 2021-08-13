@@ -2,12 +2,13 @@
 ### This tutorial will show you, step by step, How to use DBpediaxQanary chatbot!
 ### What’s inside: <br />
 <span>&#8226;</span> <a href="#WhatisQanary">What is Qanary?</a> <br />
-<span>&#8226;</span> What is the purpose of this chatbot? <br />
-<span>&#8226;</span> Greetings and Information <br />
-<span>&#8226;</span> How to configure chatbot <br />
-<span>&#8226;</span> How to ask a question to chatbot<br />
-<span>&#8226;</span> How to load graph visualization of the question<br />
-<span>&#8226;</span> How to make a profile<br />
+<span>&#8226;</span> <a href="#Whatisthepurposeofthischatbot?">What is the purpose of this chatbot?</a> <br />
+<span>&#8226;</span> <a href="#GreetingsandInformation">Greetings and Information</a> <br />
+<span>&#8226;</span> <a href="#Howtoconfigurechatbot">How to configure chatbot</a> <br />
+<span>&#8226;</span> <a href="#Howtoaskaquestiontochatbot">How to ask a question to chatbot</a><br />
+<span>&#8226;</span> <a href="#Howtoloadgraphvisualizationofthequestion">How to load graph visualization of the question</a><br />
+<span>&#8226;</span> <a href="#Howtomakeaprofile">How to make a profile</a><br />
+
 <h3 id="WhatisQanary">First let's learn quickly about what is Qanary?</h3>
 Qanary is a methodology that allows to create, share and use components for Question Answering systems in an open ecosystem. It is part of the WDAqua research project which addresses the whole pipeline of question answering: <br />
 (1) understand a spoken question <br />
@@ -23,9 +24,9 @@ To learn more about QANARY [Click Here](https://github.com/WDAqua/Qanary/wiki/Wh
 Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
 So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 <br />
-### What is the purpose of this chatbot? <br />
+<h3 id="Whatisthepurposeofthischatbot">What is the purpose of this chatbot?</h3> <br />
 ....
-### Greetings and Information: <br />
+<h3 id="GreetingsandInformation">Greetings and Information:</h3> <br />
 **Here are some Information questions you can ask!**
 <br />
 ```
@@ -37,7 +38,7 @@ User - what is DBpedia?
 Bot - DBpedia is a crowd-sourced community effort to extract structured information from Wikipedia and make this information available on the Web.  
 ```
 
-### How to configure chatbot:<br />
+<h3 id="Howtoconfigurechatbot">How to configure chatbot:</h3><br />
 Let us take the question “What is the real name of Superman?” as running example. <br /> To ask this question to chatbot first you need to turn on following components  <br /> NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter
 <br />
 So basically, components play an important role here before asking any question you need to turn on component according to the question (To make it run remember the component list must be in order) 
@@ -92,7 +93,7 @@ Below Image represents steps after configuring the components
 <img src="https://imgur.com/CQALTWn.png"> 
 <br /> 
 
-### How to ask a question to chatbot:  <br />
+<h3 id="Howtoaskaquestiontochatbot">How to ask a question to chatbot:</h3>  <br />
 
 **After setting up the components now we can ask questions to the Chatbot** 
 <br />
@@ -117,7 +118,7 @@ Hint - To see the order of the component list you can ask "tell me an order of c
 Currently, Answers are not looking good so we are planning to use NLP techniques to paraphrase the answer.
 <br />
 
-### How to load graph visualization of the question:  <br />
+<h3 id="Howtoloadgraphvisualizationofthequestion">How to load graph visualization of the question:</h3>  <br />
 **To understand more about how the Qanary system is working you can check out the graph using the below command**  <br />
 
 ```
@@ -128,7 +129,7 @@ Bot - Go to this link to see RDF Visualization - https://rdfgraphvisualizations.
 ```
 click on this [link](https://webengineering.ins.hs-anhalt.de:41022/visualize/example) to see demo graph.  <br />
 
-### How to make a profile:  <br />
+<h3 id="Howtomakeaprofile">How to make a profile:</h3>  <br />
 **To create a profile in which you can add a list of components you need to say “create [Profile name] profile” for example - create sport profile** - <br />
 
 ```
