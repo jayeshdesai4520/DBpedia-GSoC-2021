@@ -116,7 +116,7 @@ Currently, Answers are not looking good so we are planning to use NLP techniques
 <br />
 
 ### How to load graph visualization of the question:  <br />
-**To understand more about how Qanary system working you can check out the graph using below command**  <br />
+**To understand more about how the Qanary system is working you can check out the graph using the below command**  <br />
 
 ```
 User - Where and when was Ada Lovelace born?
@@ -127,7 +127,7 @@ Bot - Go to this link to see RDF Visualization - https://rdfgraphvisualizations.
 click on this [link](https://webengineering.ins.hs-anhalt.de:41022/visualize/example) to see demo graph.  <br />
 
 ### How to make a profile:  <br />
-**If you want to create a profile in which you can add list of components use below command** - <br />
+**If you want to create a profile in which you can add a list of components use the below command** - <br />
 
 ```
 User - create sport profile
@@ -136,7 +136,7 @@ Bot - sport Profile added successfully. Now to use this profile you can say star
 **To add component to profile** - <br />
 ```
 User - activate query builder to sport
-Bot - Successfully Added QueryBuilder to sport you can add more components by saying Add and then name of the component.
+Bot - Successfully Added QueryBuilder to the sport you can add more components by saying Add and then name of the component.
 ```
 **To remove component to profile** - <br />
 ```
