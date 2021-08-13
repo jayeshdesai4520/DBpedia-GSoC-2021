@@ -127,30 +127,30 @@ Bot - Go to this link to see RDF Visualization - https://rdfgraphvisualizations.
 click on this [link](https://webengineering.ins.hs-anhalt.de:41022/visualize/example) to see demo graph.  <br />
 
 ### How to make a profile:  <br />
-**If you want to create a profile in which you can add a list of components use the below command** - <br />
+**To create a profile in which you can add a list of components you need to say “create [Profile name] profile” for example - create sport profile** - <br />
 
 ```
 User - create sport profile
 Bot - sport Profile added successfully. Now to use this profile you can say start sport to activate the profile. 
 ```
-**To add component to profile** - <br />
+**To add component to profile you need to say “activate [component name] to [profile name]” for example - activate query builder to sport** - <br />
 ```
 User - activate query builder to sport
 Bot - Successfully Added QueryBuilder to the sport you can add more components by saying Add and then name of the component.
 ```
-**To remove component to profile** - <br />
+**To remove component to profile you need to say “deactivate [component name] from [profile name]” for example - deactivate query builder from sport** - <br />
 ```
 User - deactivate query builder from sport
 Bot - Successfully removed QueryBuilder from components list of sport. 
 ```
 
-**To add profile components to local components list** - <br />
+**To add profile components to local components list you need to say “start [profile name]” for example - start sport** - <br />
 ```
 User - start sport
 Bot - sport Activated Successfully to know about active components use command 'list of active components'.
 ```
 
-**To see a list of components of a specific profile** - <br />
+**To see a list of components of a specific profile you need to say “show components of [profile name]” for example - show components of sport** - <br />
 ```
 User - show components of sport
 Bot - sport contains QueryBuilder
