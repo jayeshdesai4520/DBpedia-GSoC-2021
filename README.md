@@ -12,16 +12,16 @@ Tutorial link: [link](https://jayeshdesai4520.github.io/DBpedia-GSoC-2021/about)
 ## Table of Contents
 <a href="#community_period">GSOC Community Bonding period</a>   
 <a href="#coding_period">GSOC Coding period</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekone">Week one</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weektwo">Week two</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekthree">Week three</a> <br /> 
-<span>&#8226;</span> <a href="#coding_period_weekfour">Week four</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekfive">Week five</a><br />
-<span>&#8226;</span> <a href="#coding_period_weeksix">Week six</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekseven">Week seven</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekeight">Week eight</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weeknine">Week nine</a><br /> 
-<span>&#8226;</span> <a href="#coding_period_weekten">Week ten</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekone">Week One</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weektwo">Week Two</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekthree">Week Three</a> <br /> 
+<span>&#8226;</span> <a href="#coding_period_weekfour">Week Four</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekfive">Week Five</a><br />
+<span>&#8226;</span> <a href="#coding_period_weeksix">Week Six</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekseven">Week Seven</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekeight">Week Eight</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weeknine">Week Nine</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekten">Week Ten</a><br /> 
 
 <h3 id="community_period">GSOC Community Bonding period</h3>
 
