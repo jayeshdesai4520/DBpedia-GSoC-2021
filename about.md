@@ -1,14 +1,14 @@
 ## Modular DBpedia Chatbot
 ### This tutorial will show you, step by step, How to use DBpediaxQanary chatbot!
 ### What’s inside: <br />
-<span>&#8226;</span> What is Qanary? <br />
+<span>&#8226;</span> <a href="#WhatisQanary">What is Qanary?</a> <br />
 <span>&#8226;</span> What is the purpose of this chatbot? <br />
 <span>&#8226;</span> Greetings and Information <br />
 <span>&#8226;</span> How to configure chatbot <br />
 <span>&#8226;</span> How to ask a question to chatbot<br />
 <span>&#8226;</span> How to load graph visualization of the question<br />
 <span>&#8226;</span> How to make a profile<br />
-### First let's learn quickly about what is Qanary?
+<h3 id="WhatisQanary">First let's learn quickly about what is Qanary?</h3>
 Qanary is a methodology that allows to create, share and use components for Question Answering systems in an open ecosystem. It is part of the WDAqua research project which addresses the whole pipeline of question answering: <br />
 (1) understand a spoken question <br />
 (2) analyze the question’s text <br />
