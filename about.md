@@ -116,7 +116,7 @@ Currently, Answers are not looking good so we are planning to use NLP techniques
 <br />
 
 ### How to load graph visualization of the question:  <br />
-**To understand more about how Qanary system working you can check out the graph using below commands**  <br />
+**To understand more about how Qanary system working you can check out the graph using below command**  <br />
 
 ```
 User - Where and when was Ada Lovelace born?
