@@ -111,11 +111,12 @@ I had a meeting with my mentors at the end of week one and decided to work on 5 
 [8/9/2021]	Add activate,remove,add,show profile component Intents<br />
 [8/11/2021]	Remove hard-coded configuration from RDF-Vizualization file<br />
 [8/12/2021]	Create a JS method for querying Qanary triplestore<br />
-[8/13/2021]     added new commands to remove all components from list<br />
+[8/13/2021]     Added new commands to remove all components from list<br />
 
 <br />
 <h4 id="coding_period_weekeleven">Week Eleven</h4>
-[8/13/2021]	work on documentation..<br />
+[8/13/2021]	Work on documentation..<br />
+[8/16/2021]	Add wiki page..<br />
 <br /> 
 
 
