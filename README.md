@@ -85,6 +85,11 @@ I had a meeting with my mentors at the end of week one and decided to work on 5 
 [7/7/2021] Added intent for user cannot ask for reload component for for then 10 times otherwise it will give a 30 second timeout<br />
 [7/9/2021] Used Fuzzyset library so now no need to use Dialogflow entity Advantage of using fuzzy set library is now no need to update Dialogfloe entity every time when there is some new component in the live list of Qanary components
 <br />
+<h4 id="coding_period_weeksix">Week Five</h4>
+<h4 id="coding_period_weekseven">Week Six</h4>
+<h4 id="coding_period_weekeight">Week Eight</h4>
+<h4 id="coding_period_weeknine">Week Nine</h4>
+<h4 id="coding_period_weekten">Week Ten</h4>
 
 
 
