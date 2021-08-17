@@ -113,9 +113,8 @@ I had a meeting with my mentors at the end of week one and decided to work on 5 
 [8/13/2021]	Create a JS method for querying Qanary triplestore<br />
 <br />
 <h4 id="coding_period_weekeleven">Week Eleven</h4>
-[8/13/2021]	work on documentation<br />
-<br />
-<br />  Adding everthing in detail soon! <br /> 
+[8/13/2021]	work on documentation..<br />
+<br /> 
 
 
 
