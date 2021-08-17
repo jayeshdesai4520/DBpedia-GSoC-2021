@@ -22,6 +22,8 @@ Tutorial link: [link](https://jayeshdesai4520.github.io/DBpedia-GSoC-2021/about)
 <span>&#8226;</span> <a href="#coding_period_weekeight">Week Eight</a><br /> 
 <span>&#8226;</span> <a href="#coding_period_weeknine">Week Nine</a><br /> 
 <span>&#8226;</span> <a href="#coding_period_weekten">Week Ten</a><br /> 
+<span>&#8226;</span> <a href="#coding_period_weekeleven">Week Eleven</a><br /> 
+
 
 <h3 id="community_period">GSOC Community Bonding period</h3>
 
@@ -86,12 +88,27 @@ I had a meeting with my mentors at the end of week one and decided to work on 5 
 [7/9/2021] Used Fuzzyset library so now no need to use Dialogflow entity Advantage of using fuzzy set library is now no need to update Dialogfloe entity every time when there is some new component in the live list of Qanary components
 <br />
 <h4 id="coding_period_weeksix">Week Five</h4>
+[7/12/2021]
+[7/14/2021]
+[7/16/2021]
 <h4 id="coding_period_weekseven">Week Six</h4>
+[7/19/2021]
+[7/21/2021]
+[7/23/2021]
 <h4 id="coding_period_weekeight">Week Eight</h4>
+[7/26/2021]
+[7/28/2021]
+[7/30/2021]
 <h4 id="coding_period_weeknine">Week Nine</h4>
+[8/2/2021]
+[8/4/2021]
+[8/6/2021]
 <h4 id="coding_period_weekten">Week Ten</h4>
+[8/9/2021]
+[8/11/2021]
+[8/13/2021]
 
-
+<h4 id="coding_period_weekeleven">Week Eleven</h4>
 
 <br />  Adding everthing in detail soon! <br /> 
 
