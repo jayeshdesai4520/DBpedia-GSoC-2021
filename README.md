@@ -77,7 +77,7 @@ I had a meeting with my mentors at the end of week one and decided to work on 5 
 <br />
 
 <h4 id="coding_period_weekfour">Week Four</h4>
-[6/28/2021] Added user sessions so each cconversation for component list will be unique<br />
+[6/28/2021] Added user sessions so each conversation for component list will be unique<br />
 [7/3/2021]  Made RDF Graph visualization dynamic<br />
 <br />
 
@@ -87,33 +87,33 @@ I had a meeting with my mentors at the end of week one and decided to work on 5 
 [7/7/2021] Added intent for user cannot ask for reload component for for then 10 times otherwise it will give a 30 second timeout<br />
 [7/9/2021] Used Fuzzyset library so now no need to use Dialogflow entity Advantage of using fuzzy set library is now no need to update Dialogfloe entity every time when there is some new component in the live list of Qanary components
 <br />
-<h4 id="coding_period_weeksix">Week Five</h4>
-[7/12/2021]	<br />
-[7/14/2021]	<br />
-[7/16/2021]	<br />
+<h4 id="coding_period_weeksix">Week six</h4>
+[7/12/2021] Updating the Dialogflow modeling so that the Qanary components names are not part of the configuration	<br />
+[7/14/2021] Optimize Intent map and code<br />
+[7/16/2021] Use camelcase everywhere and move all Intent functions to a seperate file<br />
 <br />
-<h4 id="coding_period_weekseven">Week Six</h4>
-[7/19/2021]	<br />
-[7/21/2021]	<br />
-[7/23/2021]	<br />
+<h4 id="coding_period_weekseven">Week seven</h4>
+[7/19/2021]	Add "start with" Intent so that user can search components by alphabet or by word<br />
+[7/21/2021]	Change the reset component logic<br />
+[7/23/2021]	Add activate profile Intent<br />
 <br />
 <h4 id="coding_period_weekeight">Week Eight</h4>
-[7/26/2021]	<br />
-[7/28/2021]	<br />
-[7/30/2021]	<br />
+[7/26/2021]	Add suggetsion chip reponse to suitable Intents<br />
+[7/28/2021]	Create a new blogpost tutorial<br />
+[7/30/2021]	Add docker files<br />
 <br />
 <h4 id="coding_period_weeknine">Week Nine</h4>
-[8/2/2021]	<br />
-[8/4/2021]	<br />
-[8/6/2021]	<br />
+[8/2/2021]	Get QANARY components as part of application startup<br />
+[8/4/2021]	Create a custom component profile<br />
+[8/6/2021]	Fix python file and get rid of global variable<br />
 <br />
 <h4 id="coding_period_weekten">Week Ten</h4>
-[8/9/2021]	<br />
-[8/11/2021]	<br />
-[8/13/2021]	<br />
+[8/9/2021]	Add activate,remove,add,show profile component Intents<br />
+[8/11/2021]	Remove hard-coded configuration from RDF-Vizualization file<br />
+[8/13/2021]	Create a JS method for querying Qanary triplestore<br />
 <br />
 <h4 id="coding_period_weekeleven">Week Eleven</h4>
-[8/13/2021]	<br />
+[8/13/2021]	work on documentation<br />
 <br />
 <br />  Adding everthing in detail soon! <br /> 
 
