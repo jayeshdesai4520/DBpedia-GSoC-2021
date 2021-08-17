@@ -88,28 +88,33 @@ I had a meeting with my mentors at the end of week one and decided to work on 5 
 [7/9/2021] Used Fuzzyset library so now no need to use Dialogflow entity Advantage of using fuzzy set library is now no need to update Dialogfloe entity every time when there is some new component in the live list of Qanary components
 <br />
 <h4 id="coding_period_weeksix">Week Five</h4>
-[7/12/2021]
-[7/14/2021]
-[7/16/2021]
+[7/12/2021]	<br />
+[7/14/2021]	<br />
+[7/16/2021]	<br />
+<br />
 <h4 id="coding_period_weekseven">Week Six</h4>
-[7/19/2021]
-[7/21/2021]
-[7/23/2021]
+[7/19/2021]	<br />
+[7/21/2021]	<br />
+[7/23/2021]	<br />
+<br />
 <h4 id="coding_period_weekeight">Week Eight</h4>
-[7/26/2021]
-[7/28/2021]
-[7/30/2021]
+[7/26/2021]	<br />
+[7/28/2021]	<br />
+[7/30/2021]	<br />
+<br />
 <h4 id="coding_period_weeknine">Week Nine</h4>
-[8/2/2021]
-[8/4/2021]
-[8/6/2021]
+[8/2/2021]	<br />
+[8/4/2021]	<br />
+[8/6/2021]	<br />
+<br />
 <h4 id="coding_period_weekten">Week Ten</h4>
-[8/9/2021]
-[8/11/2021]
-[8/13/2021]
-
+[8/9/2021]	<br />
+[8/11/2021]	<br />
+[8/13/2021]	<br />
+<br />
 <h4 id="coding_period_weekeleven">Week Eleven</h4>
-
+[8/13/2021]	<br />
+<br />
 <br />  Adding everthing in detail soon! <br /> 
 
 
