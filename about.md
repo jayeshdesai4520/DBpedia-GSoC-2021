@@ -25,7 +25,7 @@ Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
 So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 <br />
 <h3 id="Whatisthepurposeofthischatbot">What is the purpose of this chatbot?</h3> <br />
-Currently the Qanary system is not easier to use for user so by making the chatbot it is now lot better to understand and use it and even it supports feature like  smalltalks and more state of the art features. 
+To provide better access to the DBpedia knowledge base for regular users while providing a state-of-the-art interface Currently, the Qanary system is not easier to use for user so by making the chatbot it is now lot better to understand and use it and even it supports feature like  smalltalks and more state of the art features. 
 <h3 id="GreetingsandInformation">Greetings and Information:</h3> <br />
 **Here are some Information questions you can ask!**
 <br />
