@@ -25,7 +25,7 @@ Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
 So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
 <br />
 <h3 id="Whatisthepurposeofthischatbot">What is the purpose of this chatbot?</h3> <br />
-Currently the Qanary system is not easier to use for user so by making the chatbot it is now lot better to understand and use it and evern it supports feature like audio input, smalltalks and more state of the art features. 
+Currently the Qanary system is not easier to use for user so by making the chatbot it is now lot better to understand and use it and even it supports feature like  smalltalks and more state of the art features. 
 <h3 id="GreetingsandInformation">Greetings and Information:</h3> <br />
 **Here are some Information questions you can ask!**
 <br />
@@ -72,11 +72,19 @@ User - tell me an order of components list
 Bot - currently, active components are NED-DBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter  
 ```
 <br />
-**To see Reset the list of component from your list you need to say "reset component list"** <br />
+**To see Reset the list of components from your list you need to say "reset component list" (it adds default components and deletes all the components which are not part of default components)** <br />
 ```
 User - Hi  
 Bot - Hello! I am the DBpedia bot, How can I help you?  
 User - reset the component list 
+Bot - Components list are now empty  
+```
+<br />
+**To see Delete the list of components from your list you need to say "Delete all components"** <br />
+```
+User - Hi  
+Bot - Hello! I am the DBpedia bot, How can I help you?  
+User - Delete all components 
 Bot - Components list are now empty  
 ```
 <br />
