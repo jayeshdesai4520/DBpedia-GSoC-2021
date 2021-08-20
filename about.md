@@ -17,13 +17,13 @@ Qanary is a methodology that allows to create, share and use components for Ques
 (4) present the answer(s).
 <br />
 <br />
-Some more Information about the QANARY System:<br />
-[Follow this](https://github.com/WDAqua/Qanary) Tutorial to create QANARY System Locally 
-<br />
-To learn more about QANARY [Click Here](https://github.com/WDAqua/Qanary/wiki/What-is-Qanary%3F) <br />
-Github Link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
-So in a Nutshell, Question>Qanary>DBpedia knowledge base>Dialogflow
-<br />
+Some more information about the Qanary approach:<br />
+* [Follow this](https://github.com/WDAqua/Qanary) tutorial to create Qanary-driven Question Answering system locally 
+* To learn more about Qanary [click here](https://github.com/WDAqua/Qanary/wiki/What-is-Qanary%3F) <br />
+* GitHub link for [Qanary repository](https://github.com/WDAqua/Qanary) <br />
+
+So in a Nutshell, Question -> Dialogflow -> Qanary -> DBpedia knowledge base
+
 <h3 id="Whatisthepurposeofthischatbot">What is the purpose of this chatbot?</h3> <br />
 To provide better access to the DBpedia knowledge base for regular users while providing a state-of-the-art interface Currently, the Qanary system is not easier to use for user so by making the chatbot it is now lot better to understand and use it and even it supports feature like  smalltalks and more state of the art features. 
 <h3 id="GreetingsandInformation">Greetings and Information:</h3> <br />
@@ -90,7 +90,7 @@ Bot - Components list are now empty
 <br />
 Default components which are always on - NEDDBpediaSpotlight,QueryBuilderSimpleRealNameOfSuperHero,SparqlExecuter,OpenTapiocaNED,BirthDataQueryBuilder,WikidataQueryExecuter <br />
 
-**To see the Active/Live QANARY Components from Server, not from the local List you can use the below command:** <br />
+**To see the Active/Live Qanary Components from Server, not from the local List you can use the below command:** <br />
 ```
 User - list of active Qanary components  
 Bot - Total Active components are 55 and components are "coronabot-named-entity-recognition-location-de","SparqlExecuter","TagmeNED","MeaningCloud","NED-DBpediaSpotlight","coronabot-question-classification","QAnswerQueryBuilderAndExecutor","NERD-LuceneLinker","coronabot-missing-information","Dandelion","NER-FOX","WikidataQueryExecute.................
